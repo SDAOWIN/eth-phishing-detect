@@ -9,7 +9,7 @@ We are constantly evolving the ideal policy that guides this list, but a few cle
 - Use their interfaces to collect user signing keys (especially cryptocurrency keys) and send them back to home servers.
 
 There are other grounds for blocking, and we will ultimately do our best to keep our users safe.
-
+ 
 ### basic usage
 
 ```js
